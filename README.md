@@ -4,7 +4,7 @@
 
 Welcome to the official repository for the paper "Denoising with a Joint-Embedding Predictive Architecture" (D-JEPA). This repository contains the implementation of the methods described in the paper.
 
-Since the paper is currently under anonymous review, some links that might reveal author information have been hidden.
+🎉🎉🎉 ICLR-2025 has accepted D-JEPA, and the experimental code and pre-trained models have been open-sourced!
 
 ## Abstract
 
